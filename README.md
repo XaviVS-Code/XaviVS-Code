@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing yet! i'll change this when im ready.
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I use ChromeOS
+- ⚡ Fun fact: I started using GitHub through GitHub Copilot on VS Code
 
 <!---
 XaviVS-Code/XaviVS-Code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
